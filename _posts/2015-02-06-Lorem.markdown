@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Project 2
-date: 2015-02-06T14:37:44.000Z
-categories: update
+date: 2015-02-06 14:37:44 Z
+categories:
+- update
+layout: post
 ---
+
 <img src="/images/fulls/02.jpg" class="fit image">
